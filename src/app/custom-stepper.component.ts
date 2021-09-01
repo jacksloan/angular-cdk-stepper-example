@@ -66,13 +66,6 @@ export class CustomStepper extends CdkStepper {
 
   selectStepByIndex = (index: number) => (this.selectedIndex = index);
 
-  details() {
-    console.log({
-      prev: this.previousStep,
-      next: this.nextStep,
-    });
-  }
-
   get hasPreviousStep() {
     return this.previousStep !== null && this.previousStep !== undefined;
   }
