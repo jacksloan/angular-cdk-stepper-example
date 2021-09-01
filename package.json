@@ -21,6 +21,9 @@
     "@angular/platform-browser-dynamic": "~12.1.2",
     "@angular/router": "~12.1.2",
     "@ngneat/tailwind": "^7.0.3",
+    "@ngx-formly/bootstrap": "^5.0.0",
+    "@ngx-formly/core": "^5.0.0",
+    "@ngx-formly/material": "^5.10.22",
     "rxjs": "~6.6.0",
     "tslib": "^2.2.0",
     "zone.js": "~0.11.4"
@@ -29,6 +32,7 @@
     "@angular-devkit/build-angular": "~12.1.2",
     "@angular/cli": "~12.1.2",
     "@angular/compiler-cli": "~12.1.2",
+    "@ngx-formly/schematics": "^5.10.22",
     "@tailwindcss/forms": "0.3.3",
     "@tailwindcss/typography": "0.4.1",
     "@types/jasmine": "~3.8.0",
