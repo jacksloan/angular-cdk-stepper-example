@@ -1,6 +1,6 @@
-# CdkStepperExample
+## CdkStepperExample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
+A simple custom stepper example using the angular cdk stepper
 
 ## Development server
 
