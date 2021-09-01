@@ -1,6 +1,10 @@
 ## CdkStepperExample
 
-A simple custom stepper example using the angular cdk stepper
+A simple custom stepper example using the angular cdk stepper.
+
+## Demo
+
+[View Demo](https://jacksloan.github.io/angular-cdk-stepper-example/)
 
 ## Development server
 
